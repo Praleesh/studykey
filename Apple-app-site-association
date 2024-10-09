@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "S4W7X9M2Y9.com.lts.studykey",
+                "paths": [ "/lts/*","/studykey/*"]
+            }
+        ]
+    }
+}
